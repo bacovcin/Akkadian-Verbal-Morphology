@@ -1,0 +1,220 @@
+('G', '')
+	frozenset(['', '3sg', 'cut', 'Preterite', 'G']): 0
+	frozenset(['', '3sg', 'cut', 'Durrative', 'G']): 0
+('G', 't1')
+	frozenset(['3sg', 'cut', 'Preterite', 'G', 't1']): 56
+	frozenset(['3sg', 'cut', 'Durrative', 'G', 't1']): 236
+('G', 't2')
+('G', 'tn')
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'G']): 48
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'G']): 64
+('D', '')
+	frozenset(['', '3sg', 'cut', 'D', 'Durrative']): 0
+	frozenset(['', '3sg', 'cut', 'D', 'Preterite']): 0
+('D', 't1')
+	frozenset(['Durrative', '3sg', 'cut', 'D', 't1']): 2736
+	frozenset(['Preterite', '3sg', 'cut', 'D', 't1']): 340
+('D', 't2')
+	frozenset(['3sg', 'cut', 't2', 'D', 'Preterite']): 340
+	frozenset(['3sg', 'cut', 't2', 'D', 'Durrative']): 2736
+('D', 'tn')
+	frozenset(['tn', '3sg', 'cut', 'D', 'Durrative']): 802
+	frozenset(['tn', '3sg', 'cut', 'D', 'Preterite']): 224
+('S', '')
+	frozenset(['', 'S', 'cut', 'Durrative', '3sg']): 0
+	frozenset(['', 'S', 'cut', 'Preterite', '3sg']): 0
+('S', 't1')
+	frozenset(['S', 'cut', 'Preterite', '3sg', 't1']): 66
+	frozenset(['S', 'cut', 'Durrative', '3sg', 't1']): 110
+('S', 't2')
+	frozenset(['S', 'cut', 't2', 'Durrative', '3sg']): 286
+	frozenset(['S', 'cut', 't2', 'Preterite', '3sg']): 66
+('S', 'tn')
+	frozenset(['tn', 'S', 'cut', 'Preterite', '3sg']): 16
+	frozenset(['tn', 'S', 'cut', 'Durrative', '3sg']): 80
+('N', '')
+	frozenset(['', '3sg', 'cut', 'Durrative', 'N']): 0
+	frozenset(['', '3sg', 'cut', 'Preterite', 'N']): 0
+('N', 't1')
+('N', 't2')
+('N', 'tn')
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'N']): 4
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'N']): 20
+('G', 'Durrative')
+	frozenset(['', '3sg', 'cut', 'Durrative', 'G']): 72
+	frozenset(['3sg', 'cut', 'Durrative', 'G', 't1']): 226
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'G']): 56
+('G', 'Preterite')
+	frozenset(['', '3sg', 'cut', 'Preterite', 'G']): 24
+	frozenset(['3sg', 'cut', 'Preterite', 'G', 't1']): 52
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'G']): 48
+('D', 'Durrative')
+	frozenset(['3sg', 'cut', 't2', 'D', 'Durrative']): 2660
+	frozenset(['tn', '3sg', 'cut', 'D', 'Durrative']): 760
+	frozenset(['Durrative', '3sg', 'cut', 'D', 't1']): 2660
+	frozenset(['', '3sg', 'cut', 'D', 'Durrative']): 564
+('D', 'Preterite')
+	frozenset(['3sg', 'cut', 't2', 'D', 'Preterite']): 320
+	frozenset(['tn', '3sg', 'cut', 'D', 'Preterite']): 236
+	frozenset(['Preterite', '3sg', 'cut', 'D', 't1']): 320
+	frozenset(['', '3sg', 'cut', 'D', 'Preterite']): 96
+('S', 'Durrative')
+	frozenset(['S', 'cut', 't2', 'Durrative', '3sg']): 226
+	frozenset(['', 'S', 'cut', 'Durrative', '3sg']): 76
+	frozenset(['S', 'cut', 'Durrative', '3sg', 't1']): 50
+	frozenset(['tn', 'S', 'cut', 'Durrative', '3sg']): 64
+('S', 'Preterite')
+	frozenset(['S', 'cut', 't2', 'Preterite', '3sg']): 48
+	frozenset(['S', 'cut', 'Preterite', '3sg', 't1']): 48
+	frozenset(['tn', 'S', 'cut', 'Preterite', '3sg']): 12
+	frozenset(['', 'S', 'cut', 'Preterite', '3sg']): 24
+('N', 'Durrative')
+	frozenset(['', '3sg', 'cut', 'Durrative', 'N']): 46
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'N']): 20
+('N', 'Preterite')
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'N']): 4
+	frozenset(['', '3sg', 'cut', 'Preterite', 'N']): 0
+('', 'G')
+	frozenset(['', '3sg', 'cut', 'Preterite', 'G']): 48
+	frozenset(['', '3sg', 'cut', 'Durrative', 'G']): 144
+('', 'D')
+	frozenset(['', '3sg', 'cut', 'D', 'Durrative']): 1076
+	frozenset(['', '3sg', 'cut', 'D', 'Preterite']): 172
+('', 'S')
+	frozenset(['', 'S', 'cut', 'Durrative', '3sg']): 104
+	frozenset(['', 'S', 'cut', 'Preterite', '3sg']): 38
+('', 'N')
+	frozenset(['', '3sg', 'cut', 'Durrative', 'N']): 106
+	frozenset(['', '3sg', 'cut', 'Preterite', 'N']): 10
+('t1', 'G')
+	frozenset(['3sg', 'cut', 'Preterite', 'G', 't1']): 50
+	frozenset(['3sg', 'cut', 'Durrative', 'G', 't1']): 226
+('t1', 'D')
+	frozenset(['Durrative', '3sg', 'cut', 'D', 't1']): 2508
+	frozenset(['Preterite', '3sg', 'cut', 'D', 't1']): 276
+('t1', 'S')
+	frozenset(['S', 'cut', 'Preterite', '3sg', 't1']): 18
+	frozenset(['S', 'cut', 'Durrative', '3sg', 't1']): 18
+('t1', 'N')
+('t2', 'G')
+('t2', 'D')
+	frozenset(['3sg', 'cut', 't2', 'D', 'Preterite']): 276
+	frozenset(['3sg', 'cut', 't2', 'D', 'Durrative']): 2508
+('t2', 'S')
+	frozenset(['S', 'cut', 't2', 'Durrative', '3sg']): 52
+	frozenset(['S', 'cut', 't2', 'Preterite', '3sg']): 18
+('t2', 'N')
+('tn', 'G')
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'G']): 48
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'G']): 56
+('tn', 'D')
+	frozenset(['tn', '3sg', 'cut', 'D', 'Durrative']): 844
+	frozenset(['tn', '3sg', 'cut', 'D', 'Preterite']): 264
+('tn', 'S')
+	frozenset(['tn', 'S', 'cut', 'Preterite', '3sg']): 0
+	frozenset(['tn', 'S', 'cut', 'Durrative', '3sg']): 0
+('tn', 'N')
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'N']): 0
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'N']): 0
+('', 'Durrative')
+	frozenset(['', 'S', 'cut', 'Durrative', '3sg']): 104
+	frozenset(['', '3sg', 'cut', 'D', 'Durrative']): 1076
+	frozenset(['', '3sg', 'cut', 'Durrative', 'N']): 106
+	frozenset(['', '3sg', 'cut', 'Durrative', 'G']): 144
+('', 'Preterite')
+	frozenset(['', 'S', 'cut', 'Preterite', '3sg']): 38
+	frozenset(['', '3sg', 'cut', 'Preterite', 'G']): 48
+	frozenset(['', '3sg', 'cut', 'D', 'Preterite']): 172
+	frozenset(['', '3sg', 'cut', 'Preterite', 'N']): 10
+('t1', 'Durrative')
+	frozenset(['Durrative', '3sg', 'cut', 'D', 't1']): 2592
+	frozenset(['3sg', 'cut', 'Durrative', 'G', 't1']): 222
+	frozenset(['S', 'cut', 'Durrative', '3sg', 't1']): 26
+('t1', 'Preterite')
+	frozenset(['S', 'cut', 'Preterite', '3sg', 't1']): 32
+	frozenset(['3sg', 'cut', 'Preterite', 'G', 't1']): 48
+	frozenset(['Preterite', '3sg', 'cut', 'D', 't1']): 288
+('t2', 'Durrative')
+	frozenset(['S', 'cut', 't2', 'Durrative', '3sg']): 146
+	frozenset(['3sg', 'cut', 't2', 'D', 'Durrative']): 2592
+('t2', 'Preterite')
+	frozenset(['3sg', 'cut', 't2', 'D', 'Preterite']): 288
+	frozenset(['S', 'cut', 't2', 'Preterite', '3sg']): 32
+('tn', 'Durrative')
+	frozenset(['tn', '3sg', 'cut', 'D', 'Durrative']): 768
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'N']): 0
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'G']): 48
+	frozenset(['tn', 'S', 'cut', 'Durrative', '3sg']): 24
+('tn', 'Preterite')
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'N']): 0
+	frozenset(['tn', 'S', 'cut', 'Preterite', '3sg']): 4
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'G']): 48
+	frozenset(['tn', '3sg', 'cut', 'D', 'Preterite']): 252
+('Durrative', 'G')
+	frozenset(['', '3sg', 'cut', 'Durrative', 'G']): 72
+	frozenset(['3sg', 'cut', 'Durrative', 'G', 't1']): 236
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'G']): 64
+('Durrative', 'D')
+	frozenset(['3sg', 'cut', 't2', 'D', 'Durrative']): 2584
+	frozenset(['tn', '3sg', 'cut', 'D', 'Durrative']): 886
+	frozenset(['Durrative', '3sg', 'cut', 'D', 't1']): 2584
+	frozenset(['', '3sg', 'cut', 'D', 'Durrative']): 512
+('Durrative', 'S')
+	frozenset(['S', 'cut', 't2', 'Durrative', '3sg']): 112
+	frozenset(['', 'S', 'cut', 'Durrative', '3sg']): 28
+	frozenset(['S', 'cut', 'Durrative', '3sg', 't1']): 78
+	frozenset(['tn', 'S', 'cut', 'Durrative', '3sg']): 16
+('Durrative', 'N')
+	frozenset(['', '3sg', 'cut', 'Durrative', 'N']): 60
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'N']): 0
+('Preterite', 'G')
+	frozenset(['', '3sg', 'cut', 'Preterite', 'G']): 24
+	frozenset(['3sg', 'cut', 'Preterite', 'G', 't1']): 54
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'G']): 48
+('Preterite', 'D')
+	frozenset(['3sg', 'cut', 't2', 'D', 'Preterite']): 296
+	frozenset(['tn', '3sg', 'cut', 'D', 'Preterite']): 252
+	frozenset(['Preterite', '3sg', 'cut', 'D', 't1']): 296
+	frozenset(['', '3sg', 'cut', 'D', 'Preterite']): 76
+('Preterite', 'S')
+	frozenset(['S', 'cut', 't2', 'Preterite', '3sg']): 36
+	frozenset(['S', 'cut', 'Preterite', '3sg', 't1']): 36
+	frozenset(['tn', 'S', 'cut', 'Preterite', '3sg']): 4
+	frozenset(['', 'S', 'cut', 'Preterite', '3sg']): 14
+('Preterite', 'N')
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'N']): 0
+	frozenset(['', '3sg', 'cut', 'Preterite', 'N']): 10
+('Durrative', '')
+	frozenset(['', 'S', 'cut', 'Durrative', '3sg']): 0
+	frozenset(['', '3sg', 'cut', 'D', 'Durrative']): 0
+	frozenset(['', '3sg', 'cut', 'Durrative', 'N']): 0
+	frozenset(['', '3sg', 'cut', 'Durrative', 'G']): 0
+('Durrative', 't1')
+	frozenset(['Durrative', '3sg', 'cut', 'D', 't1']): 2652
+	frozenset(['3sg', 'cut', 'Durrative', 'G', 't1']): 240
+	frozenset(['S', 'cut', 'Durrative', '3sg', 't1']): 102
+('Durrative', 't2')
+	frozenset(['S', 'cut', 't2', 'Durrative', '3sg']): 192
+	frozenset(['3sg', 'cut', 't2', 'D', 'Durrative']): 2652
+('Durrative', 'tn')
+	frozenset(['tn', '3sg', 'cut', 'D', 'Durrative']): 878
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'N']): 20
+	frozenset(['tn', '3sg', 'cut', 'Durrative', 'G']): 72
+	frozenset(['tn', 'S', 'cut', 'Durrative', '3sg']): 56
+('Preterite', '')
+	frozenset(['', 'S', 'cut', 'Preterite', '3sg']): 0
+	frozenset(['', '3sg', 'cut', 'Preterite', 'G']): 0
+	frozenset(['', '3sg', 'cut', 'D', 'Preterite']): 0
+	frozenset(['', '3sg', 'cut', 'Preterite', 'N']): 0
+('Preterite', 't1')
+	frozenset(['S', 'cut', 'Preterite', '3sg', 't1']): 52
+	frozenset(['3sg', 'cut', 'Preterite', 'G', 't1']): 58
+	frozenset(['Preterite', '3sg', 'cut', 'D', 't1']): 328
+('Preterite', 't2')
+	frozenset(['3sg', 'cut', 't2', 'D', 'Preterite']): 328
+	frozenset(['S', 'cut', 't2', 'Preterite', '3sg']): 52
+('Preterite', 'tn')
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'N']): 4
+	frozenset(['tn', 'S', 'cut', 'Preterite', '3sg']): 12
+	frozenset(['tn', '3sg', 'cut', 'Preterite', 'G']): 48
+	frozenset(['tn', '3sg', 'cut', 'D', 'Preterite']): 236
